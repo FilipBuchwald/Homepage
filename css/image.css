@@ -1,0 +1,23 @@
+.boatImage {
+    display: block;
+    width: 70%;
+    max-height: 500px;
+    margin: 40px auto;
+    border-radius: 10px;
+    box-shadow: rgb(0 0 0 / 38%) 15px -5px 20px 5px;
+}
+
+.image {
+    display: block;
+    width: 70%;
+    max-height: 500px;
+    margin: 40px auto;
+    border-radius: 10px;
+    box-shadow: rgb(0 0 0 / 38%) 15px -5px 20px 5px;
+}
+
+.image__button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+}
