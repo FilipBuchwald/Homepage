@@ -1,0 +1,19 @@
+.footer {
+    padding: 1% 10%;
+    margin: auto;
+    max-width: 1000px;
+    
+}
+
+
+.footer__section {
+    border-top: 3px solid #e2cf1d;
+}
+
+.footer__header {
+    margin: 10px;
+}
+
+.footer__text {
+    margin: 10px;
+}

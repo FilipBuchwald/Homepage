@@ -1,0 +1,49 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: #a5abae;
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+}
+
+.header {
+    background-color: #737373;
+    padding: 10px;
+    margin: 5px;
+}
+
+.header__text {
+    color: #ffffff;
+    text-align: center;
+}
+
+.boatImage {
+    display: block;
+    width: 70%;
+    max-height: 500px;
+    margin: 40px auto;
+    border-radius: 10px;
+    box-shadow: rgb(0 0 0 / 38%) 15px -5px 20px 5px;
+}
+
+.image {
+    display: block;
+    width: 70%;
+    max-height: 500px;
+    margin: 40px auto;
+    border-radius: 10px;
+    box-shadow: rgb(0 0 0 / 38%) 15px -5px 20px 5px;
+}
+
+.image__button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+}

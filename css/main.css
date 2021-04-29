@@ -1,0 +1,27 @@
+.main {
+    max-width: 1000px;
+    padding: 1% 10%;
+    margin: auto;
+}
+
+.main__section {
+    box-shadow: 2px 2px 8px rgb(0 0 0 / 38%);
+}
+
+.main__headers {
+    padding: 10px;
+}
+
+.main__text {
+    padding: 10px;
+}
+
+.main__zwiftLink {
+    text-decoration: none;
+    color: white;
+}
+
+.main__youcodeLink {
+    text-decoration: none;
+    color: white;
+}

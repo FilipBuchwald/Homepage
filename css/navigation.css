@@ -1,0 +1,29 @@
+.navigation {
+    background-color: #e2cf1d;
+    list-style-type: none;
+    margin: 5px;
+    padding: 1px;
+}
+
+.navigation__list {
+    list-style-type: none;
+}
+
+.list__item {
+    text-align: center;
+}
+
+.navigation__link {
+    padding: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.navigation__link:hover {
+    color: hsl(19, 86%, 30%);
+}
+
+.navigation__link:active {
+    color: hsl(19, 86%, 50%)
+}
