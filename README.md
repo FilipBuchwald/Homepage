@@ -1,5 +1,5 @@
 # Homepage
-Hello ! This is my first website created independently as part of the YouCode course. There you will find some information about me and more.
+Hello ! This is my first website created independently as a part of the YouCode course. You can find there some information about me.
 ![](https://github.com/FilipBuchwald/Homepage/blob/main/images/gif.gif?raw=true)
 
 ## Demo
