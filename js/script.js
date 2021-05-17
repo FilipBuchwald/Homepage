@@ -3,7 +3,9 @@
         console.log("Witaj w konsoli");
     }
     
-    const changeImageButton = () => {      
+    const changeImageButton = () => {     
+        const image = document.querySelector(".image"); 
+        
         
         if (button.innerText === "Następne zdjęcie") {
             button.innerText = "Poprzednie zdjęcie";
@@ -24,8 +26,7 @@
 
     }
     
-    const button = document.querySelector(".js-image__button");
-    const image = document.querySelector(".image"); 
+    const button = document.querySelector(".js-image__button"); 
     
     init();
 }
